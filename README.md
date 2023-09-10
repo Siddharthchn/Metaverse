@@ -4,12 +4,12 @@
   <h1 align="center">Metaverse</h1>
 
   <h3 align="center">
-  This is a landing page for Metaverse built with React.js , TailwindCSS, valtio and Framer-Motion .
+  This is a Website for Metaverse built with React.js , TailwindCSS, valtio and Framer-Motion .
   </h3>
  <br />
  
 
- ### Click here for live demo   <a href="https://siddharthchn.github.io/Nike/" target="_blank">Metaverse</a>
+ ### Click here for live demo   <a href="https://siddharthchn.github.io/Metaverse/" target="_blank">Metaverse</a>
 
 </p>
 
@@ -18,7 +18,7 @@
 ## About The Project:-
 
 
-![Nike](https://github.com/Siddharthchn/Nike/assets/109435160/db68b984-e889-4225-b821-d60edc811504)
+![Metaverse](https://github.com/Siddharthchn/Metaverse/assets/109435160/05fea8c0-72ec-4cc9-9c62-0e2cdd4d59ae)
 
 
 
